@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/results" className={styles.card}>
+          <a href="https://site-philippines.vercel.app/" className={styles.card}>
             <h2>2022 Results &rarr;</h2>
             <p>OSM data extracted on October 17, 2022.</p>
           </a>
